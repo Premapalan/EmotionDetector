@@ -1,4 +1,4 @@
-# Drowsiness Detector  ( Computer vision Fun project :) )
+# Emotion Detector  ( Computer vision, DeepLearning with TensorFlow Fun project :) )
 
 ## Installation
 
@@ -12,7 +12,7 @@
     sudo update-alternatives --config python
     ```
 
-2. git clone https://gitlab.com/pprasathpp/DrowsinessDetector.git
+2. git clone https://gitlab.com/pprasathpp/emotion-detector_tensorflow.git
 3. pip install virtualenv
 4. enter command : virtualenv your_choice_env
 5. source yout_choice_env/bin/activate
@@ -29,9 +29,9 @@
 
 ## Usage
 
-python3 drowsiness_detector.py
+python3 emotion_detector.py
 
 ## Current work
 
-Yawn detection and number of times yawn detected(count) has been implemented.
-eye open and close detection 
+1. Detection of 7 different facial emotions ('Angry', 'Disgust', 'Fear', 'Happy', 'Neutral', 'Sad', 'Surprise') based on training of 28709 images.
+2. Model accuracy approximately 51%
