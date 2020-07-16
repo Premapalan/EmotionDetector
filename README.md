@@ -32,11 +32,11 @@
 python3 emotion_detector.py
 
 ## samples
-![Neutral](/images/logo.png)
-![Happy](/images/logo.png)
-![Sad](/images/logo.png)
-![Angry](/images/logo.png)
-![Surprise](/images/logo.png)
+![Neutral](/images/Neutral.png)
+![Happy](/images/Happy.png)
+![Sad](/images/Sad.png)
+![Angry](/images/Angry.png)
+![Surprise](/images/Surprise.png)
 
 ## Current work
 
