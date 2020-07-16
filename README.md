@@ -31,6 +31,8 @@
 
 python3 emotion_detector.py
 
+## samples
+
 ## Current work
 
 1. Detection of 7 different facial emotions ('Angry', 'Disgust', 'Fear', 'Happy', 'Neutral', 'Sad', 'Surprise') based on training of 28709 images.
