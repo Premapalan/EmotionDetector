@@ -1,5 +1,7 @@
 # Emotion Detector  ( Computer vision, DeepLearning with TensorFlow Fun project :) )
 
+## Description
+
 ## Installation
 
 ### On Ubuntu
