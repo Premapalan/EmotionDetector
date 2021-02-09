@@ -1,6 +1,10 @@
 # Emotion Detector  ( Computer vision, DeepLearning with TensorFlow Fun project :) )
 
 ## Description
+The aim of this project is to identify and detect different user facial expression in real time. I have used data from Kaggle to to train the model. You can find the data in the following link
+```text 
+https://www.kaggle.com/c/challenges-in-representation-learning-facial-expression-recognition-challenge/data
+```
 
 ## Installation
 
