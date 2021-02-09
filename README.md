@@ -5,6 +5,8 @@ The aim of this project is to identify and detect different user facial expressi
 ```text 
 https://www.kaggle.com/c/challenges-in-representation-learning-facial-expression-recognition-challenge/data
 ```
+I have built Convolutional Neral Network(CNN) on Tensorflow framework(open source deep learning framework). The model has been trained with 25 epochs(The number of epochs is a hyperparameter that determines the number of times the learning algorithm operates over the entire dataset of training) and built with 52% overall accuracy. The Emotion Detector was trained to detect the following emotions: 'Angry', 'Disgust', 'Fear', 'Happy', 'Neutral', 'Sad', 'Surprise‘. 
+
 
 ## Installation
 
