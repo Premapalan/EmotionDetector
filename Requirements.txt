@@ -2,4 +2,4 @@ numpy==1.18.1
 opencv-contrib-python==4.2.0.32
 dlib==19.20.0
 keras==2.4.3
-TensorFlow==2.2.0
+TensorFlow==2.9.3
